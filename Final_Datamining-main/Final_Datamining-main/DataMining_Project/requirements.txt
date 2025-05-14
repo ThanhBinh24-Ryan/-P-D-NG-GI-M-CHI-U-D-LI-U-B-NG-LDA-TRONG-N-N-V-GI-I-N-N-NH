@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+Pillow
+matplotlib
+ Flask
+  Flask-CORS

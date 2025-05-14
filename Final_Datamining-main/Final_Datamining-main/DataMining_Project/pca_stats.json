@@ -1,0 +1,1 @@
+{"original_size": 853820, "original_dimensions": [3840, 2160], "processed_dimensions": [288, 512], "algorithm": "PCA", "components": 50, "compressed_size": 227855, "compression_ratio": 3.75, "variance_explained": 99.84, "processing_time": 1.645, "decompression_time": 0.869}
